@@ -1,5 +1,7 @@
 # Open-WMEMAI-Lab
 
+<img width="1691" height="930" alt="image" src="https://github.com/user-attachments/assets/5fddce3f-0442-44e0-b0ae-205d5ccfe7cf" />
+
 Open World Models for EMbodied Artificial Intelligence Lab (**Open-WMEMAI-Lab**) is my research initiative centered on a fundamental question: **How can intelligent agents autonomously acquire, organize, and continually refine an understanding of the world, and use that knowledge to reason, plan, and act reliably in unfamiliar environments?**
 
 My research interests lie in self-supervised predictive learning, structured world models, and the discovery of causal and compositional abstractions from high-dimensional, continuous, and noisy experience. I seek to understand how agents can learn transferable representations and executable theories of their environments, predict the consequences of actions, and generalize beyond previously encountered situations.
