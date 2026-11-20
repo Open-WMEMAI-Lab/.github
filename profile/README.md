@@ -35,3 +35,5 @@ My aim is to contribute principled methods and credible scientific evidence towa
 ---
 
 **Maintained by [AnnyaB](https://github.com/AnnyaB)**
+
+***Visual Credits: Banner artwork generated with ChatGPT by OpenAI.***
