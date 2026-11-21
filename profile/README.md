@@ -1,4 +1,3 @@
-# Open × WMEMAI Lab
 
 <img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/f50ec84d-96c0-4f2b-8ff0-9a3797a38e50" />
 
