@@ -2,6 +2,8 @@
 
 <img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/f50ec84d-96c0-4f2b-8ff0-9a3797a38e50" />
 
+<p align="center">Figure 1. Lab banner illustration.</p>
+
 <br><br>
 
 Open World Models for EMbodied Artificial Intelligence Lab (**Open × WMEMAI Lab**) is my research initiative centered on a fundamental question: **How can intelligent agents autonomously acquire, organize, and continually refine an understanding of the world, and use that knowledge to reason, plan, and act reliably in unfamiliar environments?**
@@ -22,12 +24,6 @@ I am also interested in **AI scientists** capable of autonomously forming mechan
 - **Embodied and Physical Intelligence** — Continual sensorimotor learning, closed-loop planning and control, and generalization across unfamiliar physical environments and robotic tasks.
 - **Lifelong, Open-Ended, and Safe Self-Improving Intelligence** — Persistent memory, autonomous exploration, continual knowledge acquisition and revision, detection of model inadequacy, interpretability, alignment, and mathematically grounded safety and reliability.
 - **AI Scientists and World-Theory Discovery** — Autonomous hypothesis generation, causal and mechanistic reasoning, experimental design, and evidence-driven refinement of scientific models.
-
-### Research Principles
-
-I pursue fundamental scientific questions through rigorous theoretical reasoning and reproducible experimentation. I emphasize well-defined assumptions, mathematically principled methods, strong and comparable baselines, controlled ablations, and systematic evaluation of generalization, uncertainty, and failure under distribution shift.
-
-I regard interpretability, alignment, controllability, and safety as integral to the design and evaluation of autonomous learning systems. I distinguish theoretical guarantees from empirical evidence, research hypotheses from demonstrated results, and genuine advances from unsupported claims.
 
 ### Research and Development
 
